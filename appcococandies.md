@@ -5,3 +5,4 @@
 <img width="5121" height="6763" alt="Artboard 1@4x" src="https://github.com/user-attachments/assets/c5b7a778-be47-404e-af04-e83c526d0002" />
 
 <img width="56" height="54" alt="Katja" src="https://github.com/user-attachments/assets/e32ea8c4-9d5c-4e52-809c-430c717b4b4e" />
+![the-finnish-wayArtboard 5@3x](https://github.com/user-attachments/assets/116b92fb-4379-4557-a70d-6535f586fb5b)
